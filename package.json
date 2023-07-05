@@ -127,7 +127,7 @@
     "@babel/core": "7.16.0",
     "@babel/eslint-parser": "7.21.8",
     "@babel/plugin-proposal-export-default-from": "7.16.0",
-    "@babel/preset-env": "7.16.0",
+    "@babel/preset-env": "7.22.0",
     "@babel/preset-react": "7.16.0",
     "@jitsi/eslint-config": "4.1.5",
     "@types/amplitude-js": "8.16.2",
